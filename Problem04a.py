@@ -7,4 +7,4 @@ for char in vowels:  # get vowels one by one
     word = word.replace(char, 'g')  # check if it contains any vowels,if it is then replace it with g
 
 # print changed word
-print(word)
+print("Updated Word: ",word)

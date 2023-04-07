@@ -10,4 +10,4 @@ for char in vowels:  # get vowels one by one
         word = word.replace(char, 'G')  # uppercase, replace it with G
 
 # print changed word
-print(word)
+print("Updated Word: ", word)
