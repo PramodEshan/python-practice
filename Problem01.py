@@ -1,5 +1,4 @@
 # problem 01
-
 # part a
 word = 'English Academy'
 print(word)  # print English Academy
